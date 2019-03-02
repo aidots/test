@@ -1,1 +1,17 @@
 mine: 可以注册
+bcc: 可以注册
+so: 可以注册
+911: 可以注册
+520: 可以注册
+let: 可以注册
+sale: 可以注册
+come: 可以注册
+real: 可以注册
+study: 可以注册
+clever: 可以注册
+cow: 可以注册
+nb: 可以注册
+he: 可以注册
+quick: 可以注册
+simple: 可以注册
+out: 可以注册
