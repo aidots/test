@@ -1,0 +1,8 @@
+mine: 可以注册
+bee: 不能注册
+usa: 不能注册
+china: 不能注册
+japan: 不能注册
+app: 不能注册
+ios: 不能注册
+android: 不能注册
