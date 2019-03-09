@@ -96,3 +96,4 @@ def write_NA_to_file(item):
 
 if __name__ == "__main__":
     main()
+
