@@ -1,0 +1,771 @@
+< div data - module = "bfp" > <script type = "text/x-config" > {
+    "data": {
+        "fallback": "7",
+        "labels": {
+            "copy_link": "Copy link",
+            "correct": "Correct",
+            "i_got": "I got:",
+            "of": "of",
+            "on": "on",
+            "retake": "Replay",
+            "share": "Share",
+            "tweet": "Tweet",
+            "twitter_via": "Buzzfeed",
+            "wrong": "Wrong!",
+            "you_got": "You got:"
+        },
+        "questions": {
+            "1": {
+                "fallback": {
+                    "resultMap": "6"
+                },
+                "id": 1,
+                "image": {
+                    "alt": "",
+                    "credit": "Urban Outfitters",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/bw3dA5c2k.png?output-format=jpg",
+                    "via": ""
+                },
+                "order": 1,
+                "targets": {
+                    "1": {
+                        "color": "#0DCCB0",
+                        "height": 47.064,
+                        "id": 1,
+                        "order": 1,
+                        "resultMap": "5",
+                        "style": "rect",
+                        "width": 47.362,
+                        "x": 74.691,
+                        "y": 73.808
+                    },
+                    "2": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 2,
+                        "order": 2,
+                        "resultMap": "8",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.147,
+                        "y": 74.172
+                    },
+                    "3": {
+                        "color": "#0DCCB0",
+                        "height": 47.064,
+                        "id": 3,
+                        "order": 3,
+                        "resultMap": "1",
+                        "style": "rect",
+                        "width": 47.362,
+                        "x": 74.691,
+                        "y": 25.368
+                    },
+                    "4": {
+                        "color": "#0DCCB0",
+                        "height": 47.064,
+                        "id": 4,
+                        "order": 4,
+                        "resultMap": "4",
+                        "style": "rect",
+                        "width": 47.362,
+                        "x": 25.332,
+                        "y": 25.366
+                    }
+                },
+                "text": "Pick a sweatshirt/sweater:"
+            },
+            "10": {
+                "fallback": {
+                    "resultMap": "7"
+                },
+                "id": 10,
+                "image": {
+                    "alt": "",
+                    "credit": "Urban Outfitters",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/pnZ5mZ_2r.png?output-format=jpg",
+                    "via": ""
+                },
+                "order": 10,
+                "targets": {
+                    "1": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 1,
+                        "order": 1,
+                        "resultMap": "8",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.505,
+                        "y": 24.991
+                    },
+                    "2": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 2,
+                        "order": 2,
+                        "resultMap": "2",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.41,
+                        "y": 24.991
+                    },
+                    "3": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 3,
+                        "order": 3,
+                        "resultMap": "5",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.505,
+                        "y": 74.079
+                    },
+                    "4": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 4,
+                        "order": 4,
+                        "resultMap": "4",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.592,
+                        "y": 74.079
+                    }
+                },
+                "text": "Pick a bag:"
+            },
+            "11": {
+                "fallback": {
+                    "resultMap": "8"
+                },
+                "id": 11,
+                "image": {
+                    "alt": "",
+                    "credit": "Urban Outfitters",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/l8ZF5v3LP.png?output-format=jpg",
+                    "via": ""
+                },
+                "order": 11,
+                "targets": {
+                    "1": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 1,
+                        "order": 1,
+                        "resultMap": "6",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.322,
+                        "y": 25.174
+                    },
+                    "2": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 2,
+                        "order": 2,
+                        "resultMap": "2",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.045,
+                        "y": 24.991
+                    },
+                    "3": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 3,
+                        "order": 3,
+                        "resultMap": "4",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 24.775,
+                        "y": 74.261
+                    },
+                    "4": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 4,
+                        "order": 4,
+                        "resultMap": "7",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.227,
+                        "y": 74.079
+                    }
+                },
+                "text": "Pick a swimsuit:"
+            },
+            "2": {
+                "fallback": {
+                    "resultMap": "7"
+                },
+                "id": 2,
+                "image": {
+                    "alt": "",
+                    "credit": "Urban Outfitters",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/iYOAb7FZT.png?output-format=jpg",
+                    "via": ""
+                },
+                "order": 2,
+                "targets": {
+                    "1": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 1,
+                        "order": 1,
+                        "resultMap": "6",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.688,
+                        "y": 74.539
+                    },
+                    "2": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 2,
+                        "order": 2,
+                        "resultMap": "2",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.331,
+                        "y": 74.539
+                    },
+                    "3": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 3,
+                        "order": 3,
+                        "resultMap": "8",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.331,
+                        "y": 25.548000000000002
+                    },
+                    "4": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 4,
+                        "order": 4,
+                        "resultMap": "1",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.688,
+                        "y": 25.365
+                    }
+                },
+                "text": "Pick a skirt:"
+            },
+            "3": {
+                "fallback": {
+                    "resultMap": "1"
+                },
+                "id": 3,
+                "image": {
+                    "alt": "",
+                    "credit": "Urban Outfitters",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/Y2EnBnpdq.png?output-format=jpg",
+                    "via": ""
+                },
+                "order": 3,
+                "targets": {
+                    "1": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 1,
+                        "order": 1,
+                        "resultMap": "7",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.869,
+                        "y": 25.174
+                    },
+                    "2": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 2,
+                        "order": 2,
+                        "resultMap": "6",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.775,
+                        "y": 25.356
+                    },
+                    "3": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 3,
+                        "order": 3,
+                        "resultMap": "2",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.41,
+                        "y": 74.261
+                    },
+                    "4": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 4,
+                        "order": 4,
+                        "resultMap": "5",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.505,
+                        "y": 74.444
+                    }
+                },
+                "text": "Pick a pair of shoes:"
+            },
+            "4": {
+                "fallback": {
+                    "resultMap": "8"
+                },
+                "id": 4,
+                "image": {
+                    "alt": "",
+                    "credit": "Urban Outfitters",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/nVAMCVg9_.png?output-format=jpg",
+                    "via": ""
+                },
+                "order": 4,
+                "targets": {
+                    "1": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 1,
+                        "order": 1,
+                        "resultMap": "7",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.41,
+                        "y": 25.174
+                    },
+                    "2": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 2,
+                        "order": 2,
+                        "resultMap": "5",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.687,
+                        "y": 25.356
+                    },
+                    "3": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 3,
+                        "order": 3,
+                        "resultMap": "1",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.41,
+                        "y": 74.079
+                    },
+                    "4": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 4,
+                        "order": 4,
+                        "resultMap": "2",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.505,
+                        "y": 74.261
+                    }
+                },
+                "text": "Pick a coat:"
+            },
+            "5": {
+                "fallback": {
+                    "resultMap": "2"
+                },
+                "id": 5,
+                "image": {
+                    "alt": "",
+                    "credit": "Urban Outfitters",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/JCEkY2a4q.png?output-format=jpg",
+                    "via": ""
+                },
+                "order": 5,
+                "targets": {
+                    "1": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 1,
+                        "order": 1,
+                        "resultMap": "7",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.322,
+                        "y": 74.079
+                    },
+                    "2": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 2,
+                        "order": 2,
+                        "resultMap": "1",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.592,
+                        "y": 74.626
+                    },
+                    "3": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 3,
+                        "order": 3,
+                        "resultMap": "6",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.775,
+                        "y": 25.539
+                    },
+                    "4": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 4,
+                        "order": 4,
+                        "resultMap": "4",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.687,
+                        "y": 25.539
+                    }
+                },
+                "text": "Pick some sunglasses:"
+            },
+            "6": {
+                "fallback": {
+                    "resultMap": "4"
+                },
+                "id": 6,
+                "image": {
+                    "alt": "",
+                    "credit": "Urban Outfitters",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/vs3a1PHw9.png?output-format=jpg",
+                    "via": ""
+                },
+                "order": 6,
+                "targets": {
+                    "1": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 1,
+                        "order": 1,
+                        "resultMap": "1",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.505,
+                        "y": 25.539
+                    },
+                    "2": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 2,
+                        "order": 2,
+                        "resultMap": "7",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.775,
+                        "y": 25.356
+                    },
+                    "3": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 3,
+                        "order": 3,
+                        "resultMap": "5",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.687,
+                        "y": 74.261
+                    },
+                    "4": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 4,
+                        "order": 4,
+                        "resultMap": "2",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 73.862,
+                        "y": 74.079
+                    }
+                },
+                "text": "Pick a piece of jewelry:"
+            },
+            "7": {
+                "fallback": {
+                    "resultMap": "7"
+                },
+                "id": 7,
+                "image": {
+                    "alt": "",
+                    "credit": "Urban Outfitters",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/fnQZR9CWG.png?output-format=jpg",
+                    "via": ""
+                },
+                "order": 7,
+                "targets": {
+                    "1": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 1,
+                        "order": 1,
+                        "resultMap": "2",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.14,
+                        "y": 25.539
+                    },
+                    "2": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 2,
+                        "order": 2,
+                        "resultMap": "1",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.592,
+                        "y": 25.356
+                    },
+                    "3": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 3,
+                        "order": 3,
+                        "resultMap": "5",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.14,
+                        "y": 74.626
+                    },
+                    "4": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 4,
+                        "order": 4,
+                        "resultMap": "8",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.775,
+                        "y": 74.809
+                    }
+                },
+                "text": "Pick a dress:"
+            },
+            "8": {
+                "fallback": {
+                    "resultMap": "2"
+                },
+                "id": 8,
+                "image": {
+                    "alt": "",
+                    "credit": "Urban Outfitters",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/lFM717R3r.png?output-format=jpg",
+                    "via": ""
+                },
+                "order": 8,
+                "targets": {
+                    "1": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 1,
+                        "order": 1,
+                        "resultMap": "6",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.322,
+                        "y": 25.356
+                    },
+                    "2": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 2,
+                        "order": 2,
+                        "resultMap": "4",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.41,
+                        "y": 25.356
+                    },
+                    "3": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 3,
+                        "order": 3,
+                        "resultMap": "1",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.322,
+                        "y": 74.079
+                    },
+                    "4": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 4,
+                        "order": 4,
+                        "resultMap": "7",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.592,
+                        "y": 73.896
+                    }
+                },
+                "text": "Pick a top:"
+            },
+            "9": {
+                "fallback": {
+                    "resultMap": "6"
+                },
+                "id": 9,
+                "image": {
+                    "alt": "",
+                    "credit": "Urban Outfitters",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/8MsHGQfFa.png?output-format=jpg",
+                    "via": ""
+                },
+                "order": 9,
+                "targets": {
+                    "1": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 1,
+                        "order": 1,
+                        "resultMap": "4",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 24.957,
+                        "y": 25.356
+                    },
+                    "2": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 2,
+                        "order": 2,
+                        "resultMap": "2",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 73.862,
+                        "y": 25.174
+                    },
+                    "3": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 3,
+                        "order": 3,
+                        "resultMap": "5",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 25.687,
+                        "y": 74.444
+                    },
+                    "4": {
+                        "color": "#0DCCB0",
+                        "height": 47.061,
+                        "id": 4,
+                        "order": 4,
+                        "resultMap": "8",
+                        "style": "rect",
+                        "width": 46.992,
+                        "x": 74.045,
+                        "y": 74.444
+                    }
+                },
+                "text": "Pick a pair of pants:"
+            }
+        },
+        "results": {
+            "1": {
+                "description": "",
+                "id": 1,
+                "image": {
+                    "alt": "",
+                    "credit": "The CW",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/j5JTaqmTC.png",
+                    "via": ""
+                },
+                "order": 1,
+                "title": "Blair Waldorf"
+            },
+            "2": {
+                "description": "",
+                "id": 2,
+                "image": {
+                    "alt": "",
+                    "credit": "The CW",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/1GIwjzXPY.png",
+                    "via": ""
+                },
+                "order": 2,
+                "title": "Serena van der Woodsen"
+            },
+            "4": {
+                "description": "",
+                "id": 4,
+                "image": {
+                    "alt": "",
+                    "credit": "The CW",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/V_OgnCnbF.png",
+                    "via": ""
+                },
+                "order": 3,
+                "title": "Nathanial Archibald "
+            },
+            "5": {
+                "description": "",
+                "id": 5,
+                "image": {
+                    "alt": "",
+                    "credit": "The CW",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/6OwlVYPff.png",
+                    "via": ""
+                },
+                "order": 4,
+                "title": "Dan Humphrey "
+            },
+            "6": {
+                "description": "",
+                "id": 6,
+                "image": {
+                    "alt": "",
+                    "credit": "The CW",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/bi4cvQsJx.png",
+                    "via": ""
+                },
+                "order": 5,
+                "title": "Georgina Sparks "
+            },
+            "7": {
+                "description": "",
+                "id": 7,
+                "image": {
+                    "alt": "",
+                    "credit": "The CW",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/wdTSrYEg7.png",
+                    "via": ""
+                },
+                "order": 6,
+                "title": "Dorota "
+            },
+            "8": {
+                "description": "",
+                "id": 8,
+                "image": {
+                    "alt": "",
+                    "credit": "The CW",
+                    "src": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/jug2f5jCw.png",
+                    "via": ""
+                },
+                "order": 7,
+                "title": "Jenny Humphrey"
+            }
+        },
+        "timestamp": 1552153441,
+        "type": "personality"
+    },
+    "formatName": "tap_on_image",
+    "renderKitUrl": "https://www.buzzfeed.com/static-assets/buzz-format-platform/tap_on_image/js/render_kit.31b9b01bfa4a783b26e9.js",
+    "id": "122436407"
+} < /script>/

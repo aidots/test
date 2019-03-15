@@ -1,0 +1,261 @@
+{
+    id: 12,
+    image: "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/6/11/tmp/buzzfeed-prod-web-04/tmp-name-2-3434-1551890801-0_dblbig.jpg",
+    value: "Everyone Is A Netflix Original TV Character \u2014 Which One Are You?",
+    ques_ans: [
+        {
+            question: "12-q-1.jpg",
+            type: "image",
+            answers: [
+                {
+                    img: "12-1-1.jpg",
+                    txt: "",
+                    res: 0
+                },
+                {
+                    img: "12-1-2.jpg",
+                    txt: "",
+                    res: 4
+                },
+                {
+                    img: "12-1-3.jpg",
+                    txt: "",
+                    res: 1
+                },
+                {
+                    img: "12-1-4.jpg",
+                    txt: "",
+                    res: 2
+                },
+                {
+                    img: "12-1-5.jpg",
+                    txt: "",
+                    res: 3
+                },
+                {
+                    img: "12-1-6.jpg",
+                    txt: "",
+                    res: 5
+                }
+            ]
+        },
+        {
+            question: "12-q-2.jpg",
+            type: "image",
+            answers: [
+                {
+                    img: "12-2-1.jpg",
+                    txt: "London",
+                    res: 5
+                },
+                {
+                    img: "12-2-2.jpg",
+                    txt: "Maui",
+                    res: 4
+                },
+                {
+                    img: "12-2-3.jpg",
+                    txt: "Tokyo",
+                    res: 3
+                },
+                {
+                    img: "12-2-4.jpg",
+                    txt: "Barcelona",
+                    res: 2
+                },
+                {
+                    img: "12-2-5.jpg",
+                    txt: "Los Angeles",
+                    res: 1
+                },
+                {
+                    img: "12-2-6.jpg",
+                    txt: "Paris",
+                    res: 0
+                }
+            ]
+        },
+        {
+            question: "12-q-3.jpg",
+            type: "image",
+            answers: [
+                {
+                    img: "12-3-1.jpg",
+                    txt: "<i>Bird Box</i>",
+                    res: 0
+                },
+                {
+                    img: "12-3-2.jpg",
+                    txt: "<i>Dumplin'</i>",
+                    res: 1
+                },
+                {
+                    img: "12-3-3.jpg",
+                    txt: "<i>The Kissing Booth</i>",
+                    res: 5
+                },
+                {
+                    img: "12-3-4.jpg",
+                    txt: "<i>Roma</i>",
+                    res: 3
+                },
+                {
+                    img: "12-3-5.jpg",
+                    txt: "<i>A Christmas Prince</i>",
+                    res: 4
+                },
+                {
+                    img: "12-3-6.jpg",
+                    txt: "<i>To All the Boys I've Loved Before</i>",
+                    res: 2
+                }
+            ]
+        },
+        {
+            question: "12-q-4.jpg",
+            type: "image",
+            answers: [
+                {
+                    img: "12-4-1.jpg",
+                    txt: "Ron Swanson from <i>Parks and Rec</i>",
+                    res: 5
+                },
+                {
+                    img: "12-4-2.jpg",
+                    txt: "Cristina Yang from <i>Grey's Anatomy</i>",
+                    res: 4
+                },
+                {
+                    img: "12-4-3.jpg",
+                    txt: "Chandler Bing from <i>Friends</i>",
+                    res: 3
+                },
+                {
+                    img: "12-4-4.jpg",
+                    txt: "Lorelai Gilmore from <i>Gilmore Girls</i>",
+                    res: 2
+                },
+                {
+                    img: "12-4-5.jpg",
+                    txt: "Cory Matthews from <i>Boy Meets World</i>",
+                    res: 1
+                },
+                {
+                    img: "12-4-6.jpg",
+                    txt: "Buffy Summers from <i>Buffy the Vampire Slayer</i>",
+                    res: 0
+                }
+            ]
+        },
+        {
+            question: "12-q-5.jpg",
+            type: "image",
+            answers: [
+                {
+                    img: "12-5-1.jpg",
+                    txt: "Pizza",
+                    res: 0
+                },
+                {
+                    img: "12-5-2.jpg",
+                    txt: "Popcorn",
+                    res: 1
+                },
+                {
+                    img: "12-5-3.jpg",
+                    txt: "Chip and Guacamole",
+                    res: 2
+                },
+                {
+                    img: "12-5-4.jpg",
+                    txt: "Peanut Butter and Jelly Sandwich",
+                    res: 3
+                },
+                {
+                    img: "12-5-5.jpg",
+                    txt: "Cookies",
+                    res: 4
+                },
+                {
+                    img: "12-5-6.jpg",
+                    txt: "Fruit",
+                    res: 5
+                }
+            ]
+        },
+        {
+            question: "12-q-6.jpg",
+            type: "image",
+            answers: [
+                {
+                    img: "12-6-1.jpg",
+                    txt: "Marvel's <i>Jessica Jones</i>",
+                    res: 0
+                },
+                {
+                    img: "12-6-2.jpg",
+                    txt: "<i>BoJack Horseman</i>",
+                    res: 1
+                },
+                {
+                    img: "12-6-3.jpg",
+                    txt: "<i>You</i>",
+                    res: 3
+                },
+                {
+                    img: "12-6-4.jpg",
+                    txt: "<i>The End of the F***ing World</i>",
+                    res: 5
+                },
+                {
+                    img: "12-6-5.jpg",
+                    txt: "<i>Grace and Frankie</i>",
+                    res: 4
+                },
+                {
+                    img: "12-6-6.jpg",
+                    txt: "<i>Queer Eye</i>",
+                    res: 2
+                }
+            ]
+        }
+    ],
+    result: [
+        {
+            content: "Theo Crain from <i>The Haunting of Hill House</i>",
+            type: "image",
+            res_img: "result_pic_12_1.jpg",
+            description: "Your personality matches Theo from <i>Haunting of Hill House</i>. Like Theo, you're an ambivert. You're constantly going back and forth between wanting to party and wanting to spend a quiet night in. You're someone who isn't afraid to be your most authentic self. You're a fighter."
+        },
+        {
+            content: "Steve Harrington from <i>Stranger Things</i>",
+            type: "image",
+            res_img: "result_pic_12_2.jpg",
+            description: "Your personality matches Steve from <i>Stranger Things</i>. Like Steve, you're fiercely loyal to the people you love most. While some might underestimate you at first, you love when you prove people wrong. You're charming, determined, and ambitious."
+        },
+        {
+            content: "Lydia Alvarez from <i>One Day at a Time</i>",
+            type: "image",
+            res_img: "result_pic_12_3.jpg",
+            description: "Your personality matches Lydia from <i>One Day at a Time</i>. Like Lydia, you're the life of the party. You always wear your heart on your sleeve and you're often considered the mom of your friend group. You're bold, outgoing, and a natural-born leader."
+        },
+        {
+            content: "Number Five from <i>The Umbrella Academy</i>",
+            type: "image",
+            res_img: "result_pic_12_4.jpg",
+            description: "Your personality matches Number Five from <i>Umbrella Academy</i>. Like Number Five, you're incredibly smart. You're someone who loves a challenge. You're an old soul, who wants to leave the world better than how you found it."
+        },
+        {
+            content: "Tasha \"Taystee\" Jefferson from <i>Orange Is the New Black</i>",
+            type: "image",
+            res_img: "result_pic_12_5.jpg",
+            description: "Your personality matches Taystee from <i>Orange Is the New Black</i>. Like Taystee, you're unapologetically yourself and you're always there to help those in need. You're passionate, headstrong, and confident."
+        },
+        {
+            content: "Otis Milburn from <i>Sex Education</i>",
+            type: "image",
+            res_img: "result_pic_12_6.jpg",
+            description: "Your personality matches Otis from <i>Sex Education</i>. Like Otis, you tend to be more introverted when meeting new people, however once you get to know someone, you become the life of the party. Your friends are the most important people in the world to you."
+        }
+    ]
+}

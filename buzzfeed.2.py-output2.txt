@@ -1,0 +1,121 @@
+{
+    "title": "Everyone Has A Type Of Pie That Matches Their Personality \u2014 Here's Yours",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/14/13/tmp/buzzfeed-prod-web-01/tmp-name-2-10893-1552586141-0_dblwide.jpg",
+    "url": "https://www.buzzfeed.com/cahoonyttoot/what-kind-of-pie-are-you-1loyjqoj5f"
+}{
+    "title": "Everyone Is A Netflix Original TV Character \u2014 Which One Are You?",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/6/11/tmp/buzzfeed-prod-web-04/tmp-name-2-3434-1551890801-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/noradominick/which-netflix-original-tv-character-are-you"
+}{
+    "title": "Pick A Place To Have Sex And We&#39;ll Tell You What Kind Of Lover You Are",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/13/22/campaign_images/buzzfeed-prod-web-06/pick-a-place-to-have-sex-and-well-tell-you-what-k-2-8484-1552529840-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/peggy/pick-a-place-to-have-sex-and-well-tell-you-what-kind-of"
+}{
+    "title": "What &#39;90s Brand Are You: Mossimo, St\u00fcssy, Or No Fear?",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/13/22/campaign_images/buzzfeed-prod-web-05/what-90s-brand-are-you-mossimo-stussy-or-no-fear-2-25358-1552530728-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/peggy/are-you-more-mossimo-stussy-or-no-fear"
+}{
+    "title": "Which Billie Eilish Song Should You Stream Next Based On The Things You Buy At H&amp;M?",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/14/10/tmp/buzzfeed-prod-web-06/tmp-name-2-2117-1552573287-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/animekidd/shop-at-hm-and-well-give-you-a-billie-eilish-son-ejh8yfq68q"
+}{
+    "title": "Design Your Living Room With Urban Outfitters And We&#39;ll Reveal Which Word Best Describes You",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/14/11/tmp/buzzfeed-prod-web-06/tmp-name-2-7051-1552576970-3_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/laneygeismar/make-a-living-room-entirely-out-of-urban-outfitter-cxsc86iegl"
+}{
+    "title": "Tell Us About Yourself And We&#39;ll Determine If You Should Get Bangs",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/6/15/tmp/buzzfeed-prod-web-03/tmp-name-2-8125-1551903404-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/racheldunkel/tell-me-about-your-life-and-ill-tell-you-if-you-should-get"
+}{
+    "title": "Make A Pie And We&#39;ll Tell You What Your Crush Thinks Of You",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/14/13/tmp/buzzfeed-prod-web-05/tmp-name-2-32554-1552584326-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/erino120/make-a-pie-and-we-will-tell-you-what-your-crush-th-egmrgl6uyk"
+}{
+    "title": "Order Your Dream Meal And We&#39;ll Tell You Which Classic Cartoon Character Is Your Bestie",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/14/16/tmp/buzzfeed-prod-web-04/tmp-name-2-10058-1552593650-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/cosmic77/eat-a-ton-of-food-and-well-tell-you-which-cartoon-5oc89ckz7a"
+}{
+    "title": "Answer These Questions And We&#39;ll Tell You Which &#34;H2O: Just Add Water&#34; Character Matches Your Personality",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/13/13/tmp/buzzfeed-prod-web-03/tmp-name-2-32494-1552499275-5_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/elizabethswahnn/answer-these-questions-and-well-tell-you-which-h-3y3f56dh8n"
+}{
+    "title": "It&#39;s Time To Find Out Which Cardi B Song You Should Listen To Based On Your Reading Preferences",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/14/12/tmp/buzzfeed-prod-web-06/tmp-name-2-14739-1552582498-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/nyashab2/tell-us-about-youre-reading-habits-and-well-give-9rv72qabx1"
+}{
+    "title": "Spend An Entire Paycheck At Lululemon And We&#39;ll Tell You Which &#34;Pretty Little Liars&#34; Character You&#39;re Most Like",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/13/13/tmp/buzzfeed-prod-web-02/tmp-name-2-7495-1552497438-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/ellaphillips/buy-a-new-wardrobe-at-lululemon-and-well-tell-you-19in4ztg0o"
+}{
+    "title": "Pick 8 Of Your Favorite Names And We&#39;ll Tell You Which Song You Should Listen To",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/13/11/tmp/buzzfeed-prod-web-04/tmp-name-2-5307-1552492373-1_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/animekidd/well-give-you-a-song-to-stream-based-on-the-names-17wheluj29"
+}{
+    "title": "Let&#39;s Find Out Which 2019 Celebrity Engagement Ring Matches Your Personality",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/14/14/tmp/buzzfeed-prod-web-05/tmp-name-2-4980-1552588040-5_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/rilo19/what-2019-celebrity-engagement-ring-matches-your-p-ak2ir0g9wn"
+}{
+    "title": "Pick Your Favorite Childhood Snacks And We&#39;ll Tell You Which Animal You&#39;re Most Like",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/13/12/tmp/buzzfeed-prod-web-03/tmp-name-2-26933-1552495132-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/lorikupelian/pick-your-favorite-childhood-snacks-and-we-will-te-3h9plc76xw"
+}{
+    "title": "Everyone&#39;s Soul Is Tied To A Color \u2014 Here&#39;s Yours",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/14/12/tmp/buzzfeed-prod-web-02/tmp-name-2-22900-1552581492-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/brunomirandalencastre/whats-the-actual-color-of-your-soul-87t60zvz3g"
+}{
+    "title": "The Names For The 26 Letters Of The Alphabet You Choose Will Reveal How Rich You&#39;ll Be",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/14/10/tmp/buzzfeed-prod-web-02/tmp-name-2-14311-1552575281-15_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/patriciaaanyc/choose-a-name-for-each-letter-of-the-alphabet-and-at2zesc8ii"
+}{
+    "title": "Make A Sandwich And We&#39;ll Reveal Which Avenger You&#39;re Most Like",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/13/11/tmp/buzzfeed-prod-web-01/tmp-name-2-12642-1552489571-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/nnherrera4/make-a-sandwich-and-find-out-which-avenger-you-are-dupssas6zj"
+}{
+    "title": "Rate Some Boy Bands To Reveal Which Jonas Brother You Are",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/13/11/tmp/buzzfeed-prod-web-04/tmp-name-2-3537-1552490871-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/sundaesrose/rate-some-boy-bands-to-reveal-which-jonas-brother-2qme1t9kg9"
+}{
+    "title": "Choose Some Clothes From Fashion Nova And We&#39;ll Give You A Funny Show To Watch",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/13/12/campaign_images/buzzfeed-prod-web-03/choose-some-clothes-from-fashion-nova-and-well-gi-2-28589-1552496348-10_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/nxbz/choose-some-clothes-from-fashion-nova-and-well-gi-15hskx0n0f"
+}{
+    "title": "The Most Intense Lazy Girl Quiz You Will Take",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/8/12/tmp/buzzfeed-prod-web-03/tmp-name-2-8855-1552065222-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/jamedjackson/lazy-girl-text-messages"
+}{
+    "title": "Spend All Of Your Money At Pull And Bear And We&#39;ll Tell You Which Member Of SWMRS You&#39;re Most Like",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/13/11/tmp/buzzfeed-prod-web-02/tmp-name-2-31248-1552490839-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/miss_information/go-on-a-shopping-spree-at-pull-and-bear-and-find-o-6o4iav070w"
+}{
+    "title": "Which Song From Khalid&#39;s &#34;Suncity&#34; EP Are You Based On Your Random Preferences?",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/13/11/tmp/buzzfeed-prod-web-05/tmp-name-2-6103-1552491666-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/cmc33/which-song-from-khalids-suncity-ep-are-you-6p7lq9ltnm"
+}{
+    "title": "Everyone&#39;s A Combo Of Two &#34;Captain Marvel&#34; Characters \u2014 Here&#39;s Yours",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/12/12/tmp/buzzfeed-prod-web-06/tmp-name-2-7836-1552407179-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/noradominick/captain-marvel-character-combo-quiz"
+}{
+    "title": "What Will Your Relationship Status Be In 2020 Based On The Spring Day You Plan?",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/13/13/tmp/buzzfeed-prod-web-03/tmp-name-2-30539-1552497773-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/linalist/plan-your-perfect-spring-day-and-we-will-reveal-yo-3l6rtx5m8n"
+}{
+    "title": "Spend All Of Your Money At Urban Outfitters And We&#39;ll Reveal Which Ariana Grande Song Matches Your Personality",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/12/12/tmp/buzzfeed-prod-web-06/tmp-name-2-9687-1552408580-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/therealmazzinator/we-know-which-ariana-grande-song-you-are-based-on-fdf4z7pr2"
+}{
+    "title": "Buy An Entire New Wardrobe From Free People And We&#39;ll Tell You Which Kind Of Slime You&#39;re Most Like",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/12/12/tmp/buzzfeed-prod-web-04/tmp-name-2-23249-1552407705-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/laneygeismar/make-an-outfit-from-free-people-and-well-tell-you-38hyo92j6p"
+}{
+    "title": "Let&#39;s Find Out Which &#34;Gen:LOCK&#34; Character You&#39;re Most Similar To",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/14/11/tmp/buzzfeed-prod-web-01/tmp-name-2-32727-1552577990-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/ajl4589/which-genlock-character-are-you-most-like-5yeidfbcy"
+}{
+    "title": "What Starbucks Drink Actually Matches Your Personality?",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/12/17/campaign_images/buzzfeed-prod-web-01/what-starbucks-drink-actually-matches-your-person-2-26988-1552427396-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/jamedjackson/starbucks-drink-matches-personality"
+}{
+    "title": "The Things You Buy At Anthro Will Reveal Which Stevie Wonder Song You Should Listen To",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/12/11/tmp/buzzfeed-prod-web-05/tmp-name-2-21228-1552405268-0_dblbig.jpg",
+    "url": "https://www.buzzfeed.com/dbesim1/shop-at-anthropologie-and-weall-give-you-a-stevi-5zdk232ks7"
+}
